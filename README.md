@@ -32,7 +32,7 @@ Participated in **CSIT TISC CTF Challenge**, advancing to **Level 5**, with a fo
 
 ## 📫 Contact  
 - **Website**: [https://CyberVersed.com](https://CyberVersed.com)
-- **LinkedIn**: [LinkedIn!]www.linkedin.com/in/neil-aaron-s-570411246 
+- **LinkedIn**: [LinkedIn!](www.linkedin.com/in/neil-aaron-s-570411246)
 
 ---
 
