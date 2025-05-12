@@ -24,9 +24,8 @@ Participated in **CSIT TISC CTF Challenge**, advancing to **Level 5**, with a fo
 
 ## 📚 Certifications  
 - **CISCO Networking Academy** – Introduction to Cyber Security (2024)  
-- **Pursuing Certifications**:  
+- **Certifications**:  
   - **SANS 504** – Hacker Tools, Techniques, Exploits & Incident Handling  
-  - **OSCP** – Offensive Security Certified Professional  
 
 ---
 
