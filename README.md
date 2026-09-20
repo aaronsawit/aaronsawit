@@ -10,9 +10,13 @@ By day I work in security. On the side I tutor special needs students, which is 
 
 | Repo | What it is |
 |---|---|
-| [detections](https://github.com/aaronsawit/detections) | Sigma rules mapped to MITRE ATT&CK. Every rule has match and no-match fixtures, validated in CI and converted to Splunk and Elastic queries. |
+| [detections](https://github.com/aaronsawit/detections) | 10 Sigma rules across 15 MITRE ATT&CK techniques, with a generated coverage map. Every rule has match and no-match fixtures, validated in CI and converted to Splunk and Elastic queries. |
 | [blue-team-ai](https://github.com/aaronsawit/blue-team-ai) | Syslog triage in Python: deterministic rules and IOC matching first, an LLM classifier second, held to a strict output format. 36 offline tests. |
 | [phishing-analyser](https://github.com/aaronsawit/phishing-analyser) | CLI that checks a URL against OpenPhish and URLhaus and catches lookalike brand domains such as `micros0ft-login.example.com`. |
+| [pdf-redaction-check](https://github.com/aaronsawit/pdf-redaction-check) | Checks whether the redacted text in a PDF is actually gone: words under black boxes (including overlays) and unapplied redaction marks. |
+| [llm-guardrail-tests](https://github.com/aaronsawit/llm-guardrail-tests) | Regression tests for the guardrails on your own AI feature. 20 prompt-injection patterns, deterministic grading, no judge model, CI-ready. |
+| [model-diff-audit](https://github.com/aaronsawit/model-diff-audit) | Bit-level audit of an AI model against the base it claims to come from: separates fine-tuning from tampering. |
+| [toolcall-probe](https://github.com/aaronsawit/toolcall-probe) | Does this model really call tools, or just talk about them? Probes any OpenAI-compatible endpoint. |
 | [cctokens](https://github.com/aaronsawit/cctokens) | See where your Claude Code tokens go: usage and API-equivalent cost by day, model and project. One Python file, no dependencies, fully local. |
 | [docker-gpu-reload-check](https://github.com/aaronsawit/docker-gpu-reload-check) | Finds Docker containers that will silently lose their NVIDIA GPU on the next `systemctl daemon-reload`, and prints the fix. |
 | [private-relay-block](https://github.com/aaronsawit/private-relay-block) | Makes iPhones and Macs use your DNS filter again by blocking iCloud Private Relay the way Apple documents. |
