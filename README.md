@@ -13,7 +13,11 @@ By day I work in security. On the side I tutor special needs students, which is 
 | [detections](https://github.com/aaronsawit/detections) | Sigma rules mapped to MITRE ATT&CK. Every rule has match and no-match fixtures, validated in CI and converted to Splunk and Elastic queries. |
 | [blue-team-ai](https://github.com/aaronsawit/blue-team-ai) | Syslog triage in Python: deterministic rules and IOC matching first, an LLM classifier second, held to a strict output format. 36 offline tests. |
 | [phishing-analyser](https://github.com/aaronsawit/phishing-analyser) | CLI that checks a URL against OpenPhish and URLhaus and catches lookalike brand domains such as `micros0ft-login.example.com`. |
-| [disc-image-id](https://github.com/aaronsawit/disc-image-id) | Identifies Xbox, PS1 and PS2 disc images by signature, and fixes the full-dump case that makes the xemu emulator say "Please insert an Xbox disc". |
+| [cctokens](https://github.com/aaronsawit/cctokens) | See where your Claude Code tokens go: usage and API-equivalent cost by day, model and project. One Python file, no dependencies, fully local. |
+| [docker-gpu-reload-check](https://github.com/aaronsawit/docker-gpu-reload-check) | Finds Docker containers that will silently lose their NVIDIA GPU on the next `systemctl daemon-reload`, and prints the fix. |
+| [private-relay-block](https://github.com/aaronsawit/private-relay-block) | Makes iPhones and Macs use your DNS filter again by blocking iCloud Private Relay the way Apple documents. |
+| [headless-sunshine-nvidia](https://github.com/aaronsawit/headless-sunshine-nvidia) | Game streaming from a server with no monitor: synthetic EDID, Xorg config, and the silent CPU-encode trap on older NVIDIA cards. |
+| [disc-image-id](https://github.com/aaronsawit/disc-image-id) | Small tools for console disc dumps: identify Xbox, PS1 and PS2 images by signature, fix the full-dump case the xemu emulator rejects, repair PS1 cue sheets and playlists. |
 | [aaronsawit.com](https://github.com/aaronsawit/aaronsawit.com) | Source of my site: a hand-written static site generator, Markdown in, HTML out, on Cloudflare Pages. |
 | [custom-snort-rules](https://github.com/aaronsawit/custom-snort-rules) · [iptables-firewall-scripts](https://github.com/aaronsawit/iptables-firewall-scripts) | Study notes from 2024: first network detection rules and a default-deny host firewall. |
 
