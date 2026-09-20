@@ -25,7 +25,6 @@ By day I work in security. On the side I tutor special needs students, which is 
 
 - GIAC Certified Incident Handler (GCIH), SANS SEC504
 - Hack The Box Academy, SOC Analyst path
-- CSIT TISC CTF, reached Level 5
 - Tutoring primary and lower-secondary special needs students since 2020
 
 Python · TypeScript · Linux · Docker · Cloudflare Workers · Elastic Stack · Sysmon · Sigma · MITRE ATT&CK
