@@ -4,7 +4,7 @@ Cybersecurity engineer in Singapore. GIAC Certified Incident Handler (GCIH). I b
 
 By day I work in security. On the side I tutor special needs students, which is why I built [Versed](https://versedapps.com): four free learning tools for students, tutors and teachers, designed, built and run by me on Cloudflare's edge.
 
-**Portfolio and write-ups:** [aaronsawit.com](https://aaronsawit.pages.dev) · **LinkedIn:** [neil-aaron-s](https://www.linkedin.com/in/neil-aaron-s-570411246/)
+**Portfolio and write-ups:** [aaronsawit.com](https://aaronsawit.com) · **LinkedIn:** [neil-aaron-s](https://www.linkedin.com/in/neil-aaron-s-570411246/)
 
 ## Security work in the open
 
@@ -18,7 +18,7 @@ By day I work in security. On the side I tutor special needs students, which is 
 ## Things I build
 
 - **[Versed](https://versedapps.com)**: live classroom quizzes, quiet pixel-art study rooms, a progress tracker for tutors, and flashcards. TypeScript on Cloudflare Workers, Durable Objects, D1 and Pages. No sign-up to play, no tracking.
-- **A home server on 2017 hardware**: 40+ self-hosted services behind a WireGuard mesh with no port open to the internet, nightly backups, monitoring and alerts. Every odd failure becomes a [root-cause write-up](https://aaronsawit.pages.dev/writing/).
+- **A home server on 2017 hardware**: 40+ self-hosted services behind a WireGuard mesh with no port open to the internet, nightly backups, monitoring and alerts. Every odd failure becomes a [root-cause write-up](https://aaronsawit.com/writing/).
 - **Local LLM benchmarking**: a 35B model from 46 to 71 tokens a second on two GTX 1080 Tis, with the negative results written down.
 
 ## Background
