@@ -12,7 +12,9 @@ By day I work in security. On the side I tutor special needs students, which is 
 |---|---|
 | [detections](https://github.com/aaronsawit/detections) | Sigma rules mapped to MITRE ATT&CK. Every rule has match and no-match fixtures, validated in CI and converted to Splunk and Elastic queries. |
 | [blue-team-ai](https://github.com/aaronsawit/blue-team-ai) | Syslog triage in Python: deterministic rules and IOC matching first, an LLM classifier second, held to a strict output format. 36 offline tests. |
-| [phising-analyser](https://github.com/aaronsawit/phising-analyser) | CLI that checks a URL against OpenPhish and URLhaus and catches lookalike brand domains such as `micros0ft-login.example.com`. |
+| [phishing-analyser](https://github.com/aaronsawit/phishing-analyser) | CLI that checks a URL against OpenPhish and URLhaus and catches lookalike brand domains such as `micros0ft-login.example.com`. |
+| [disc-image-id](https://github.com/aaronsawit/disc-image-id) | Identifies Xbox, PS1 and PS2 disc images by signature, and fixes the full-dump case that makes the xemu emulator say "Please insert an Xbox disc". |
+| [aaronsawit.com](https://github.com/aaronsawit/aaronsawit.com) | Source of my site: a hand-written static site generator, Markdown in, HTML out, on Cloudflare Pages. |
 | [custom-snort-rules](https://github.com/aaronsawit/custom-snort-rules) · [iptables-firewall-scripts](https://github.com/aaronsawit/iptables-firewall-scripts) | Study notes from 2024: first network detection rules and a default-deny host firewall. |
 
 ## Things I build
